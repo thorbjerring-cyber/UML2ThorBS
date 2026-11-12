@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ConsoleMenu/ConsoleMenu.csproj" Id="4df0e9d5-d776-4c1f-8a41-655c600eb0d0" />
+  <Project Path="PizzaLibrary/PizzaLibrary.csproj" />
+  <Project Path="UML2ThorBS/UML2ThorBS Tests.csproj" />
+</Solution>
